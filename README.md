@@ -1,4 +1,4 @@
-Java8InAction
+Forked from Java8/Java8InAction
 ===============
 
 This repository contains all the source code for the examples and quizzes in the book Java 8 in Action: Lambdas, Streams and functional-style programming.
@@ -51,7 +51,7 @@ $ cd target/classes
 $ java lambdasinaction/chap1/FilteringApples
 
 
-Alternatively you can compile the files manually inside the directory src/main/java
+Alternatively, you can compile the files manually inside the directory src/main/java
 
 You can also import the project in your favorite IDE:
     * In IntelliJ use "File->Open" menu and navigate to the folder where the project resides
